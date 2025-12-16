@@ -19,3 +19,5 @@
 [Endless procedurally generated maps(Version 8 - Endless procedural generation of different maps from different pictures) | Babylon.js Playground](https://playground.babylonjs.com/#8WHVCC#0)
 
 [Endless procedurally generated maps(Version 9-Different height maps in different pictures,but they are rotated randomly) | Babylon.js Playground](https://playground.babylonjs.com/#POIACJ)
+
+[Endless procedurally generated maps (Version 10 - Final version) | Babylon.js Playground](https://playground.babylonjs.com/#WK8QKA)
