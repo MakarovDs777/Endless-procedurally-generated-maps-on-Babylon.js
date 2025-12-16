@@ -1,4 +1,4 @@
-# Endless-procedurally-generated-maps-on-Babylon.js
+# Endless-procedurally-generated-maps-from-pictures-on-Babylon.js
 
 [Endless procedurally generated maps (Version 0 - Generating maps based on a set of images in one plane) | Babylon.js Playground](https://playground.babylonjs.com/#SURUI4#0)
 
